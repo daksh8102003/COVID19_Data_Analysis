@@ -75,7 +75,7 @@ Download or clone this repository:
 
 bash
 
-git clone https://github.com/your-username/COVID19_Data_Analysis.git
+git clone https:https://github.com/daksh8102003/COVID19_Data_Analysis
 
 
 jupyter notebook
